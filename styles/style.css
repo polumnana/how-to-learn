@@ -21,7 +21,6 @@
   /* выше установили ограничения для секции */
 
   background-color: #f2f2f2;
-  z-index: -3;
   position: relative;
   display: flex;
   align-items: center;
@@ -45,7 +44,7 @@
 
   left: 64px;
 
-  z-index: 1;
+  z-index: 2;
 
   line-height: 96px;
   font-size: 102px;
@@ -57,7 +56,7 @@
   position: absolute;
   bottom: 30px;
   left: 64px;
-  z-index: 1;
+  z-index: 2;
 
   line-height: 25px;
   font-size: 18px;
@@ -67,17 +66,22 @@
 .header__subtitle_link {
   text-decoration: none;
   color: #2f80ed;
+  z-index: 2;
+
 }
 
 .header__main-illustration {
   position: absolute;
   bottom: 0;
   right: 0;
+  z-index: 1;
+
 }
 
 .header__main-illustration_pic {
   width: 765px;
   height: 608px;
+
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
@@ -85,13 +89,14 @@
   position: absolute;
   top: 64px;
   right: 0;
-  z-index: -1;
+
 }
 
 .header__square-pic-item {
   height: 568px;
   width: 568px;
   background-color: #2f80ed;
+
 
 }
 

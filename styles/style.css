@@ -374,6 +374,8 @@
   text-decoration: none;
   display: flex;
   flex-wrap: nowrap;
+  align-items: center;
+
 
 
 
@@ -383,4 +385,6 @@
 .footer__column-links-img {
   width: 16px;
   height: 16px;
+  margin-right: 10px;
+
 }

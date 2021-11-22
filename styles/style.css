@@ -195,6 +195,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: #f2f2f2;
+  z-index: 0;
 }
 
 .feynman__img {
@@ -203,7 +205,7 @@
   position: absolute;
   left: 0;
   bottom: 0;
-  z-index: -1;
+  z-index: 1;
 }
 
 .feynman__title {
@@ -213,6 +215,7 @@
   line-height: 1.15;
   font-size: 120px;
   font-weight: bold;
+  z-index: 2;
 }
 
 .feynman__subtitle {
@@ -221,6 +224,7 @@
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
+  z-index: 2;
 }
 
 .feynman__link {
@@ -232,6 +236,7 @@
   font-weight: normal;
   color: #2f80ed;
   text-decoration: none;
+  z-index: 2;
 }
 
 .kaufman {

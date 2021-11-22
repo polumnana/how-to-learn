@@ -345,7 +345,7 @@
 }
 
 .footer__column_content {
-  margin-bottom: 20px;
+
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
@@ -355,7 +355,7 @@
 .footer__column_content_social {}
 
 .footer__column-heading {
-
+  margin-bottom: 20px;
   font-weight: bold;
 
 }

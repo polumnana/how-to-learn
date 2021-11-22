@@ -251,10 +251,12 @@
 
 .section-title_theme_dark {
   color: white;
+  z-index: 2;
 }
 
 .section-subtitle_theme_dark {
   color: white;
+  z-index: 2;
 }
 
 .table_theme-dark {
@@ -275,6 +277,7 @@
   height: 877px;
   position: absolute;
   right: -210px;
+  top: 0;
   z-index: 1;
 }
 

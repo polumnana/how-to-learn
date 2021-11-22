@@ -282,9 +282,7 @@
 }
 
 .footer {
-  min-width: 350px;
-  padding-top: 60px;
-  padding-bottom: 40px;
+  min-height: 350px;
   background-color: #1f1f1f;
   display: flex;
   justify-content: center;
@@ -292,6 +290,8 @@
 }
 
 .footer__columns {
+  margin-top: 60px;
+  margin-bottom: 40px;
   display: flex;
   width: 90%;
   justify-content: space-between;

@@ -349,6 +349,7 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
+  margin-bottom: 16px;
 }
 
 .footer__column_content_social {}
@@ -362,6 +363,8 @@
 
 .footer__column-links-head {
   list-style-type: none;
+  padding-left: 0;
+
 
 }
 
@@ -373,4 +376,11 @@
   flex-wrap: nowrap;
 
 
+
+
+}
+
+.footer__column-links-img {
+  width: 16px;
+  height: 16px;
 }

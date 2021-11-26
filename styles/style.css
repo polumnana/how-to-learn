@@ -26,13 +26,13 @@
 
 .logo {
   position: absolute;
-  top: 30px;
-  left: 64px;
 }
 
 .logo_place_header {
   width: 183px;
   height: 32px;
+  top: 30px;
+  left: 64px;
 }
 
 .header__title {
@@ -300,8 +300,11 @@
 }
 
 .logo_place_footer {
+  position: relative;
   width: 183px;
   height: 35px;
+  left: 0;
+  top: 0;
 }
 
 .footer__author {
@@ -310,8 +313,6 @@
   font-size: 18px;
   font-weight: normal;
 }
-
-.footer__column_social {}
 
 .footer__column_content_info {
   margin: 0 auto;

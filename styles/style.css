@@ -25,12 +25,12 @@
 }
 
 .logo {
-  position: absolute;
+  width: 183px;
+  height: 32px;
 }
 
 .logo_place_header {
-  width: 183px;
-  height: 32px;
+  position: absolute;
   top: 30px;
   left: 64px;
 }
@@ -300,11 +300,7 @@
 }
 
 .logo_place_footer {
-  position: relative;
-  width: 183px;
   height: 35px;
-  left: 0;
-  top: 0;
 }
 
 .footer__author {

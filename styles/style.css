@@ -311,16 +311,6 @@
   font-weight: normal;
 }
 
-.footer__column_content {
-  width: 50%;
-  line-height: 30px;
-  font-size: 18px;
-  font-weight: normal;
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
-}
-
 .footer__column_social {}
 
 .footer__column_content_info {
@@ -329,12 +319,17 @@
 
 .footer__column-heading {
   margin-bottom: 20px;
+  line-height: 30px;
+  font-size: 18px;
   font-weight: bold;
 }
 
-.footer__column-links-head {
+.footer__column-links {
   list-style-type: none;
   padding-left: 0;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
 }
 
 .footer__column-link {

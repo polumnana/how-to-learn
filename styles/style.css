@@ -342,3 +342,25 @@
   height: 16px;
   margin-right: 10px;
 }
+
+
+.resources {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px 0 0;
+}
+
+.resources__logo-zone {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1100px;
+  margin-top: 80px;
+  margin-bottom: 217px;
+}
+
+.resources__logo {
+  width: 270px;
+  height: 38px;
+}

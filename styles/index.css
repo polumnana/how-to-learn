@@ -53,70 +53,26 @@
 
 
 
-.feynman__img {
-  width: 867px;
-  height: 637px;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  z-index: 1;
-}
-
-.feynman__title {
-  margin-top: 100px;
-  text-align: center;
-  width: 648px;
-  line-height: 1.15;
-  font-size: 120px;
-  font-weight: bold;
-  z-index: 2;
-}
-
-.feynman__subtitle {
-  margin-top: 70px;
-  text-align: center;
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: normal;
-  z-index: 2;
-}
-
-.feynman__link {
-  position: absolute;
-  top: 50%;
-  right: 48px;
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: normal;
-  color: #2f80ed;
-  text-decoration: none;
-  z-index: 2;
-}
 
 
 
-.section-title_theme_dark {
-  color: white;
-  z-index: 2;
-}
 
-.section-subtitle_theme_dark {
-  color: white;
-  z-index: 2;
-}
 
-.table_theme_dark {
-  z-index: 2;
-}
+
+
+
+
+
+
+
+
+
+
 
 
 /* и элемента с модификатором вида ключ-значение */
 
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-top: 80px;
-}
+
 
 .kaufman__triangle {
   width: 877px;

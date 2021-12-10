@@ -9,8 +9,13 @@
 * resources.
 
 *Опробованы новые свойства и технологии:*
-* ```border-radius``` в блоке *techniques*;
-* ```<iframe></iframe>``` и API YouTube в блоке *video*;
-* анимации для фигур в блоках *header, kaufman*;
-* эффекты для ссылок в блоках *header, feynman, khan, kaufman, resources, footer*.
+* использован ```border-radius``` в блоке *techniques*;
+* видео-материалы встроены при помощи ```<iframe></iframe>``` и API YouTube в блоке *video*;
+* выполнены анимации для фигур при помощи ```@keyframes``` в блоке *rotation* и применены к блокам *header, kaufman*;
+* ссылки при наведении изменяют прозрачность в блоках *header, feynman, khan, kaufman, resources, footer*.
+
+*То, что заняло **значительную** часть времени:*
+* создана файловая структура по БЭМ (nested): стили теперь разбиты по блокам.
+
+##### Ну а я пошла спать...
 

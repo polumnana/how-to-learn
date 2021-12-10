@@ -98,6 +98,7 @@
 .content {
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 .description {
@@ -364,8 +365,11 @@
 .techniques {
   display: flex;
   flex-direction: column;
-  padding: 100px 0 0;
   align-items: center;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 100px;
 }
 
 .cards {
@@ -400,14 +404,9 @@
   font-weight: bold;
 }
 
-.oakley {
-  padding-top: 160px;
-  background-color: #f2f2f2;
-}
-
 .cards__description {
-  margin-top: 16px;
   text-align: center;
+  margin-top: 16px;
   line-height: 23px;
   font-size: 18px;
   font-weight: normal;
@@ -434,6 +433,11 @@
 
 .video__iframe:first-of-type {
   margin-right: 20px;
+}
+
+.oakley {
+  padding-top: 160px;
+  background-color: #f2f2f2;
 }
 
 .oakley {

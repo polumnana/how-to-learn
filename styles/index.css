@@ -74,16 +74,7 @@
 
 
 
-.kaufman__triangle {
-  width: 877px;
-  height: 877px;
-  position: absolute;
-  right: -210px;
-  top: 0;
-  z-index: 1;
-  background-image: url(../images/kaufman-triangle.svg);
-  background-size: contain;
-}
+
 
 
 
@@ -293,15 +284,9 @@
   transition: opacity .2s linear;
 }
 
-.header__subtitle-link:hover {
-  opacity: .4;
-  transition: opacity .2s linear;
-}
 
-.feynman__link:hover {
-  opacity: .4;
-  transition: opacity .2s linear;
-}
+
+
 
 .khan__buy-link:hover {
   opacity: .4;

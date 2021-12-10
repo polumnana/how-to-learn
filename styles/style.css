@@ -203,6 +203,7 @@
   align-items: center;
   background-color: #f2f2f2;
   z-index: 0;
+  padding-top: 100px;
 }
 
 .feynman__img {
@@ -399,6 +400,11 @@
   font-weight: bold;
 }
 
+.oakley {
+  padding-top: 160px;
+  background-color: #f2f2f2;
+}
+
 .cards__description {
   margin-top: 16px;
   margin-bottom: 60px;
@@ -432,7 +438,10 @@
   margin-right: 20px;
 }
 
-
+.oakley {
+  padding-top: 160px;
+  padding-bottom: 0;
+}
 
 
 

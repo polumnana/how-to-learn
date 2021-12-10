@@ -536,3 +536,28 @@
   width: 270px;
   height: 38px;
 }
+
+.resources__logo:hover {
+  opacity: .4;
+  transition: opacity .2s linear;
+}
+
+.header__subtitle-link:hover {
+  opacity: .4;
+  transition: opacity .2s linear;
+}
+
+.feynman__link:hover {
+  opacity: .4;
+  transition: opacity .2s linear;
+}
+
+.khan__buy-link:hover {
+  opacity: .4;
+  transition: opacity .2s linear;
+}
+
+.footer__column-link:hover {
+  opacity: .4;
+  transition: opacity .2s linear;
+}

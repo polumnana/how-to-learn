@@ -1,7 +1,6 @@
-## Проектная работа №2
+### Проектная работа №2
 # **Научиться учиться**
-Alt-H1
-------
+
 *Добавлены новые блоки:*
 * techniques;
 * video;
@@ -12,5 +11,6 @@ Alt-H1
 *Опробованы новые свойства и технологии:*
 * ```border-radius``` в блоке *techniques*;
 * ```<iframe></iframe>``` и API YouTube в блоке *video*;
-* анимации для фигур и эффекты для ссылок в блоках *header, feynman, khan, kaufman, resources, footer*.
+* анимации для фигур в блоках *header, kaufman*;
+* эффекты для ссылок в блоках *header, feynman, khan, kaufman, resources, footer*.
 

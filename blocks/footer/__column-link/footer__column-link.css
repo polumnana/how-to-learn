@@ -1,0 +1,12 @@
+.footer__column-link {
+  color: white;
+  text-decoration: none;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+.footer__column-link:hover {
+  opacity: .4;
+  transition: opacity .2s linear;
+}

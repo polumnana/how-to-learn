@@ -6,6 +6,6 @@
   margin-top: 60px;
 }
 
-.cards__item:nth-last-of-type(3) {
+.cards__item:nth-of-type(3) {
   margin-right: 0;
 }
